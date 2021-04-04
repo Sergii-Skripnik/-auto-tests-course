@@ -1,2 +1,2 @@
-# -auto-tests-course
+# -Auto-tests-course
 homework
