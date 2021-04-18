@@ -1,3 +1,2 @@
 # Auto-tests-course
-homework
-777
+here is the solutions to home tasks
